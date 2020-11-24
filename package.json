@@ -1,0 +1,23 @@
+{
+  "name": "easybox",
+  "version": "1.0.0",
+  "description": "Easily control a database using HTTP requests!",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "jsonbox",
+    "easybox",
+    "jsonstore",
+    "mongodb",
+    "quick.db",
+    "quickdb",
+    "enmap"
+  ],
+  "author": "Bots For Hire",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
